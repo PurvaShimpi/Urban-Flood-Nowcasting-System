@@ -1,0 +1,6 @@
+{
+  "name": "JalDrishti — Urban Flood Monitoring & Prediction",
+  "description": "Real-time urban flood monitoring, GIS road inundation risk prediction, drainage diagnostics, and safe navigation routing for Pune municipal zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
